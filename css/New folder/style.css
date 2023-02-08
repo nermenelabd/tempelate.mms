@@ -1,0 +1,50 @@
+body{background-color: rgb(68, 84, 95);
+    /* border-radius: 100px; */
+
+    /* padding: 20px 40px 30px 10px;
+margin: 10px 220px;} */
+
+h1
+{color: rgb(110, 78, 78);
+    font-size: 70px;
+margin-bottom: 5px;}
+
+img
+{width:800 ;
+height: 400;
+margin-left: 10px ;
+border-radius:80px;}
+label
+{font-size: xx-large;}
+input[type="text"]
+{width: 200px;
+height: 35px;
+border-radius: 10px;}
+input[type="password"]
+{width: 200px;
+height: 35px;
+border-radius: 10px;}
+input
+[type="radio"]
+{font-size: 50px;}
+h2
+{font-size: 30px;}
+button
+{background-color: rgb(122, 122, 28);
+width: 500px;
+height: 40px;
+border-radius: 20px;
+font-size:35px ;}
+select
+{width: 200px;
+height: 30px;
+background-color: rgb(146, 138, 127);
+font-size: 25px;}
+a
+{font-size: 50px;}
+div
+{width: 10px;
+height: 1300px;
+background-color: rgb(201, 196, 188);
+    border-radius: 100px;
+    }
